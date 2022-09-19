@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Usuarios>
+  <Usuario>
+    <User>Fabis</User>
+    <Password>1234</Password>
+    <Lista />
+  </Usuario>
+  <Usuario>
+    <User>Andress</User>
+    <Password>1235</Password>
+    <Lista />
+  </Usuario>
+  <Usuario>
+    <User>Abis</User>
+    <Password>1236</Password>
+    <Lista />
+  </Usuario>
+</Usuarios>
